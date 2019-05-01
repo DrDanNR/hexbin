@@ -1,0 +1,9 @@
+{
+  "name": "sjsu-ise",
+  "author": "Dr. Dan Nathan-Roberts",
+  "license": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)",
+  "raster": "http://hexb.in/hexagons/sjsu-ise.png",
+  "vector": "http://hexb.in/vector/sjsu-ise.svg",
+  "description": "San José State University's Department of Industrial and Systems Engineering",
+  "order_online_url": "https://sites.google.com/sjsu.edu/sjsuhexbadges/home"
+}
